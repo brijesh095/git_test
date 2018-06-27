@@ -55,6 +55,10 @@
 
 @endsection
 
+<<<<<<< Updated upstream
 line has changes
 -------------------
 changes to sub branch
+=======
+line has changes
+>>>>>>> Stashed changes
