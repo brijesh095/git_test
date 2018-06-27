@@ -57,4 +57,6 @@
 Hello world!
 -------------------------------
 Welcome Home
+-------------------------------
+Lorium Ipsum
 @endsection
