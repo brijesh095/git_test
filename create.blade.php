@@ -55,4 +55,6 @@
     </form>
 
 Hello world!
+-------------------------------
+Welcome Home
 @endsection
